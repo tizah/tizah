@@ -1,4 +1,15 @@
-### Hi there 👋
+## 👊 David Zagi
+
+Software Engineer: `React Frontend Engineer | Full Stack Engineer | Cloud Native Enthusiast | Blockchain Enthusiast | ML / AGI Enthusiast`
+
+I'm a fullstack software developer/engineer. I'm from Nigeria, living in Abuja and currently working at [Symphony.is](https://symphony.is/). You can find me on [linkedin](https://www.linkedin.com/in/david-zagi/).
+
+
+
+### 🔧 Technologies & Tools
+
+
+
 
 <!--
 **tizah/tizah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
