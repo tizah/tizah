@@ -40,6 +40,13 @@ I'm a fullstack software developer/engineer. I'm from Nigeria, living in Abuja a
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
+### Editors
+![](https://img.shields.io/badge/Visual_studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)
+
+
+### CMS
+![](https://img.shields.io/badge/WordPress-informational?style=for-the-badge&logo=WordPress&logoColor=white&color=21759B)
+
 
 ### Socials
 
