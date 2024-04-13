@@ -1,6 +1,6 @@
 ## 👊 David Zagi
 
-Software Engineer: `React Frontend Engineer | Full Stack Engineer | Cloud Native Enthusiast | Blockchain Enthusiast | ML / AGI Enthusiast`
+Software Engineer: `React Frontend Engineer | Certified AWS Solutions Architect |  Full Stack Engineer | Cloud Native Enthusiast | Blockchain Enthusiast | ML / AGI Enthusiast`
 
 I'm a fullstack software developer/engineer and an open-source contributor. I'm from Nigeria, living in Abuja and currently working at [Symphony.is](https://symphony.is/). You can find me on [linkedin](https://www.linkedin.com/in/david-zagi/).
 
