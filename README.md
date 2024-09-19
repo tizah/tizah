@@ -1,8 +1,8 @@
 ## 👊 David Zagi
 
-Software Engineer: `React Frontend Engineer | Certified AWS Solutions Architect |  Full Stack Engineer | Cloud Native Enthusiast | Blockchain Enthusiast | ML / AGI Enthusiast`
+**Senior Full Stack Engineer** | **React Specialist** | **AWS Certified Solutions Architect** | **Cloud & AI/ML Advocate** | **5+ Years Experience**
 
-I am an experienced Fullstack Software Engineer with over 5 years of expertise in designing and developing modern web applications, scaling systems, and delivering reliable software. With a growth-oriented and professional approach, I possess a strong command of the software development lifecycle, excelling in coding, debugging, testing, and maintenance. Additionally, I maintain an open mindset to continually enhance my abilities.
+Innovative software engineer with a proven track record in developing scalable, cloud-native applications. Expertise in React, full-stack development, and AWS architecture. Passionate about leveraging cutting-edge technologies to solve complex business challenges. Committed to continuous learning and driving impactful results in high-performance teams.
 
 
 ### 🔧 Technologies & Tools
