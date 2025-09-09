@@ -2,7 +2,7 @@
 
 **Senior Software Engineer** | **Data Scientist** | **ML/AI Engineer** | **Blockchain Developer** | **Cloud Architect**
 
-Versatile technology professional with 5+ years of experience bridging the gap between traditional software engineering and cutting-edge technologies. I specialize in building scalable full-stack applications, implementing machine learning solutions, developing blockchain systems, and architecting cloud-native infrastructures. Passionate about leveraging AI/ML, distributed ledger technologies, and cloud computing to solve complex business challenges and drive innovation.
+Versatile technology professional with 7+ years of experience bridging the gap between traditional software engineering and cutting-edge technologies. I specialize in building scalable full-stack applications, implementing machine learning solutions, developing blockchain systems, and architecting cloud-native infrastructures. Passionate about leveraging AI/ML, distributed ledger technologies, and cloud computing to solve complex business challenges and drive innovation.
 
 ### 💼 Core Competencies
 #### 🖥️ Software Engineering
